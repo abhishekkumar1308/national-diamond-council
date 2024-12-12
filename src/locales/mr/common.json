@@ -1,0 +1,23 @@
+{
+  "Welcome": "स्वागत आहे",
+  "Select Your Preferred Language": "आपली पसंतीची भाषा निवडा",
+  "Select a Language": "भाषा निवडा",
+  "How it works": "हे कसे कार्य करते",
+  "Continue": "सुरू ठेवा",
+  "Get your personalised portfolio of Vicky Kaushal promoting your business": "आपला व्यवसाय प्रोत्साहित करण्यासाठी विकी कौशलचे वैयक्तिक पोर्टफोलिओ मिळवा",
+  "Verify Account": "खाते सत्यापित करा",
+  "Take a Selfie": "सेल्फी काढा",
+  "Add Images": "प्रतिमा जोडा",
+  "Let’s start": "चला सुरू करूया",
+  "Hello!": "नमस्कार!",
+  "Sign in/Sign Up to your account": "आपल्या खात्यात साइन इन / साइन अप करा",
+  "Your name": "तुमचं नाव",
+  "Enter mobile number": "मोबाईल नंबर प्रविष्ट करा",
+  "Enter received OTP": "प्राप्त ओटीपी प्रविष्ट करा",
+  "Not received OTP?": "ओटीपी प्राप्त झाला नाही?",
+  "Resend OTP": "ओटीपी पुन्हा पाठवा",
+  "Verify OTP": "ओटीपी सत्यापित करा",
+  "Complete your profile by adding profile image": "प्रोफाइल प्रतिमा जोडून आपले प्रोफाइल पूर्ण करा",
+  "consent_message": "मी 18 वर्षांपेक्षा अधिक आहे आणि माझी सहमती देतो आणि {terms} सहमत आहे.",
+  "terms_link_text": "नियम आणि धोरण"
+}
